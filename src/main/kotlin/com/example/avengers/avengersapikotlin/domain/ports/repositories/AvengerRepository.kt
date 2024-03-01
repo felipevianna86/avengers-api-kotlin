@@ -1,4 +1,4 @@
-package com.example.avengers.avengersapikotlin.repository
+package com.example.avengers.avengersapikotlin.domain.ports.repositories
 
 import com.example.avengers.avengersapikotlin.domain.Avenger
 

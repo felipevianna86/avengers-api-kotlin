@@ -1,4 +1,4 @@
-package com.example.avengers.avengersapikotlin.request
+package com.example.avengers.avengersapikotlin.domain.dto
 
 import jakarta.validation.constraints.NotBlank
 import jakarta.validation.constraints.NotEmpty

@@ -1,4 +1,4 @@
-package com.example.avengers.avengersapikotlin.response
+package com.example.avengers.avengersapikotlin.domain.dto
 
 data class AvengerResponse(
         var nickname: String,

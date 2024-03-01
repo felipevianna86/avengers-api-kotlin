@@ -1,7 +1,7 @@
-package com.example.avengers.avengersapikotlin.resource
+package com.example.avengers.avengersapikotlin.aplicacao.controller
 
-import com.example.avengers.avengersapikotlin.request.AvengerRequest
-import com.example.avengers.avengersapikotlin.response.AvengerResponse
+import com.example.avengers.avengersapikotlin.domain.dto.AvengerRequest
+import com.example.avengers.avengersapikotlin.domain.dto.AvengerResponse
 import jakarta.validation.Valid
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity
