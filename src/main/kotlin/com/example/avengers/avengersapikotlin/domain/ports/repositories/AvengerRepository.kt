@@ -7,4 +7,6 @@ interface AvengerRepository {
     fun getAvengers(): List<Avenger>
     fun save(avenger: Avenger): Avenger
     fun delete(id: Long)
+
+    fun update(avenger: Avenger): Avenger
 }
