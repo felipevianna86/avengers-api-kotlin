@@ -1,9 +1,9 @@
 create table avenger(
     id bigserial not null,
     nickname varchar(36),
-    person varchar(128)
-    description varchar(128)
-    history text
+    person varchar(128),
+    description varchar(128),
+    history text,
     primary key (id)
 );
 
